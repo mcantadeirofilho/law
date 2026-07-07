@@ -3,30 +3,38 @@
 /* Personalize as cores, fontes e espaçamentos aqui */
 /* ============================================ */
 :root {
+  --primary-color: #0d1b2a;
+  --primary-dark: #1b263b;
+  --secondary-color: #c9a227;
+  --secondary-dark: #a68519;
+  --secondary-light: #d4b23c;
+  --accent-color: #c49a3c;
     /* CORES PRINCIPAIS - Tons de azul escuro, dourado e branco */
-    --primary-color: #0d1b2a;        /* Azul escuro principal */
-    --primary-dark: #1b263b;         /* Azul escuro mais intenso */
-    --primary-light: #2d5573;        /* Azul claro para hover */
+    /*--primary-color: #0d1b2a;         Azul escuro principal */
+    /* --primary-dark: #1b263b;         Azul escuro mais intenso */
+    /* --primary-light: #2d5573;        Azul claro para hover */
 
-    --secondary-color: #c9a227;      /* Dourado */
-    --secondary-dark: #a68519;       /* Dourado escuro */
-    --secondary-light: #d4b23c;      /* Dourado claro */
+    /* --secondary-color: #c9a227;      Dourado */
+    /* --secondary-dark: #a68519;       Dourado escuro */
+    /* --secondary-light: #d4b23c;      Dourado claro */
 
-    --accent-color: #c49a3c;         /* Cor de destaque */
+    /* --accent-color: #c49a3c;         Cor de destaque */
 
     /* CORES NEUTRAS */
-    --white: #ffffff;
-    --light-bg: #f8f9fa;
-    --gray-100: #f1f3f5;
-    --gray-200: #e9ecef;
-    --gray-300: #dee2e6;
-    --gray-400: #ced4da;
-    --gray-500: #adb5bd;
-    --gray-600: #6c757d;
-    --gray-700: #495057;
-    --gray-800: #343a40;
-    --gray-900: #212529;
-    --black: #000000;
+
+
+  --white: #ffffff;
+  --light-bg: #f8f9fa;
+  --gray-100: #f1f3f5;
+  --gray-200: #e9ecef;
+  --gray-300: #dee2e6;
+  --gray-400: #ced4da;
+  --gray-500: #adb5bd;
+  --gray-600: #6c757d;
+  --gray-700: #495057;
+  --gray-800: #343a40;
+  --gray-900: #212529;
+  --black: #000000;
 
     /* CORES DE ESTADO */
     --success-color: #28a745;
