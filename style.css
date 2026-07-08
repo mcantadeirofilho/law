@@ -320,7 +320,7 @@ img {
 .nav__link {
     font-weight: var(--font-weight-medium);
     color: var(--gray-700);
-    padding: var(--spacing-sm) var(--spacing-md);
+    padding: var(--spacing-xs) var(--spacing-sm);
     border-radius: var(--border-radius-sm);
     transition: var(--transition-base);
 }
@@ -333,7 +333,7 @@ img {
 .nav__cta {
     background-color: var(--secondary-color);
     color: var(--white) !important;
-    padding: var(--spacing-xs) var(--spacing-lg);
+    padding: var(--spacing-xs) var(--spacing-sm);
     border-radius: var(--border-radius-md);
 }
 
